@@ -1,0 +1,1725 @@
+(dp0
+S'buildDestination'
+p1
+VC:\u005cUsers\u005cLee\u005cDesktop\u005cICA\u005cNo-choices route - formatted.html
+p2
+sS'saveDestination'
+p3
+S'C:\\Users\\Lee\\Desktop\\ICA\\Falco stimuli\\E - no-choice, 2POV, imm.tws'
+p4
+sS'metadata'
+p5
+(dp6
+sS'target'
+p7
+S'sugarcube-2'
+p8
+sS'storyPanel'
+p9
+(dp10
+S'widgets'
+p11
+(lp12
+(dp13
+S'selected'
+p14
+I00
+sS'pos'
+p15
+(lp16
+I10
+aI10
+asS'passage'
+p17
+(itiddlywiki
+Tiddler
+p18
+(dp20
+S'text'
+p21
+VStarting on the next screen, you will play a short science-fiction game in which you take on the role of Special Agent Reza. Agent Reza's organization has sent her to sneak into an enemy laboratory and recover a dangerous nanobot prototype hidden there. \u000a\u000a<b>During the game, please try to <u>place yourself in the character\u2019s shoes</u> and think about how Reza would approach each situation.</b>\u000a\u000aTo start playing, click the arrow below.\u000a\u000a<div id="next">[img[Next page|arrowb][Setup]]</div>
+p22
+sS'title'
+p23
+VStart
+p24
+sS'modified'
+p25
+ctime
+struct_time
+p26
+((I2020
+I3
+I19
+I14
+I2
+I32
+I3
+I79
+I1
+tp27
+(dp28
+tp29
+Rp30
+sS'tags'
+p31
+(lp32
+Vopening
+p33
+asS'created'
+p34
+g26
+((I2020
+I1
+I25
+I18
+I41
+I31
+I5
+I25
+I0
+tp35
+(dp36
+tp37
+Rp38
+sbsa(dp39
+g14
+I00
+sg15
+(lp40
+I10
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p41
+(dp42
+g21
+VInteractive Storytelling Study
+p43
+sg23
+VStoryTitle
+p44
+sg25
+g26
+((I2020
+I3
+I18
+I23
+I58
+I45
+I2
+I78
+I1
+tp45
+(dp46
+tp47
+Rp48
+sg31
+(lp49
+sg34
+g26
+((I2020
+I1
+I25
+I18
+I41
+I31
+I5
+I25
+I0
+tp50
+(dp51
+tp52
+Rp53
+sbsa(dp54
+g14
+I00
+sg15
+(lp55
+I10
+aI570
+asg17
+(itiddlywiki
+Tiddler
+p56
+(dp57
+g21
+VConfig.debug = false;\u000a\u000a$('#ui-bar').remove();
+p58
+sg23
+VUntitled Script 1
+p59
+sg25
+g26
+((I2020
+I1
+I25
+I18
+I46
+I32
+I5
+I25
+I0
+tp60
+(dp61
+tp62
+Rp63
+sg31
+(lp64
+Vscript
+p65
+asg34
+g26
+((I2020
+I1
+I25
+I18
+I45
+I58
+I5
+I25
+I0
+tp66
+(dp67
+tp68
+Rp69
+sbsa(dp70
+g14
+I00
+sg15
+(lp71
+I10
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p72
+(dp73
+g21
+Vbody {\u000abackground-color: black;\u000acolor: white;\u000amargin-left: -15em;\u000amargin-top: 4em;\u000amargin-bottom: 3em;\u000afont-size: 1.1em;\u000a}\u000a\u000abody.opening {\u000abackground-color: white;\u000acolor: black;\u000a}\u000a\u000aimg {\u000aheight: 80px;\u000a}\u000a\u000aimg:hover {\u000aheight: 85px;\u000a}\u000a\u000a#next {\u000amargin-left: 40%;\u000a}\u000a\u000a.passage {\u000a	/* This only affects passages */\u000a	\u000a	\u000a}\u000a.passage a {\u000a	/* This affects passage links */\u000a	\u000a	\u000a}\u000a.passage a:hover {\u000a	/* This affects links while the cursor is over them */\u000a	\u000a}
+p74
+sg23
+VUntitled Stylesheet 1
+p75
+sg25
+g26
+((I2020
+I3
+I18
+I23
+I59
+I39
+I2
+I78
+I1
+tp76
+(dp77
+tp78
+Rp79
+sg31
+(lp80
+Vstylesheet
+p81
+asg34
+g26
+((I2020
+I1
+I25
+I18
+I46
+I42
+I5
+I25
+I0
+tp82
+(dp83
+tp84
+Rp85
+sbsa(dp86
+g14
+I00
+sg15
+(lp87
+I10
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p88
+(dp89
+g21
+V<<set \u000a$condition to 'E'\u000a$conditionChoice to 'noChoice'\u000a$conditionPOV to '2POV'\u000a$conditionStyle to 'imm'\u000a$choice1 to ''\u000a$choice2 to ''\u000a$choice3 to ''\u000a$choice4 to ''\u000a$choice5 to ''\u000a>>\u000a\u000a
+p90
+sg23
+VStoryInit
+p91
+sg25
+g26
+((I2020
+I3
+I19
+I14
+I2
+I25
+I3
+I79
+I1
+tp92
+(dp93
+tp94
+Rp95
+sg31
+(lp96
+sg34
+g26
+((I2020
+I1
+I25
+I19
+I3
+I23
+I5
+I25
+I0
+tp97
+(dp98
+tp99
+Rp100
+sbsa(dp101
+g14
+I00
+sg15
+(lp102
+I10
+aI710
+asg17
+(itiddlywiki
+Tiddler
+p103
+(dp104
+g21
+Vdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAHjSURBVHhe7dzhUcIwAMXxxgkYwRF0A5zAcwQnkBHcADdwBEdAJ1An0A1wA3xp84HjKvRMCY/m/7vLxeqX3nukpRewAQAAAAAAAAAAAAAAAAAAKCakedI2m81M05XGQ/uLpvkMITymn1GaCnnR2PWuEUtCSQp90cbfb61BKSUp8L7Vsc2qlIs0T1m8f+wT/75yKaWGQr7TvI9VKZOmkGfpsjQE95QSFPK8jXsYSilBIVOKG4VMKW4UMqW4UciU4kYhU4obhUwpbhQypbhRyJTiRiFTihuFTCluFDKluFHIJytllD31dEJLjTgf2n+Yoh+NmxDCR3f4f9mFpDJWGjUWsS3uu9zlljJGIbGMeXdUveyVklWIyoirYt0dIckqpYYt3LOSVYheBfHVMGTPuhbZl6wxVsh9mms3yjut7EJ0Aq+arjXiXKtRysAf9GYlPhjGB74heFo/JoVLGS4ULmW4ULiU4ULhUoYLhUsZLhQuZbhQuJThQuFShguFSxkuFC5luFC4lOFC4VKGC4V7mUIegjKOTQE/t1EfRhklKOSvNu79bMrga9Fmm0s1FPKW5j7s9J2CLkfxH83ssrxnjPJR0nOg8BeabrujdtU8aWXEFQIAAAAAAAAAAAAAAAAAAFClpvkFOnOPpb7L6hMAAAAASUVORK5CYII=
+p105
+sg23
+Varrow
+p106
+sg25
+g26
+((I2020
+I2
+I2
+I20
+I49
+I22
+I6
+I33
+I0
+tp107
+(dp108
+tp109
+Rp110
+sg31
+(lp111
+S'Twine.image'
+p112
+asg34
+g110
+sbsa(dp113
+g14
+I00
+sg15
+(lp114
+I290
+aI10
+asg17
+(itiddlywiki
+Tiddler
+p115
+(dp116
+g21
+VYou land your ship behind a sand dune, a short trek away from the laboratory. The sun was setting as you entered this planet's atmosphere, but it's still bright down here on the surface, where the shock-white sand holds its own glow. Sand is all you can see \u2013 without your team's coordinates, you would never have located the laboratory in the middle of this empty, forbidding desert. \u000a\u000aThis laboratory is one of several outposts built by the terrorist organization K.A.L. They appear to be using this location for storage of their most dangerous specimens, including the one you were sent to retrieve \u2013 the Chorobi prototype. The Chorobi is a swarm of microscopic nanobots, machines so tiny that they can infiltrate any system without detection, including human bodies. Your team didn't give you the full details on what K.A.L. coded the nanobots to do, but based on K.A.L.'s past crimes, you can guess the outcome.\u000a\u000aTen years ago, K.A.L. released a self-replicating bacteria into the oceans of New Earth that destroyed the marine ecosystems and triggered a planet-wide environmental collapse. All of New Earth's inhabitants, including you and your family, were forced to abandon their ruined home. That's when you decided to join your current team, with the hope of one day tracking down K.A.L. and confronting them for their crimes.\u000a\u000aThis is <i>almost</i> that mission.\u000a\u000a<div id="next">[img[Next page|arrow][Setup.2]]</div>
+p117
+sg23
+VSetup
+p118
+sg25
+g26
+((I2020
+I3
+I19
+I0
+I32
+I2
+I3
+I79
+I1
+tp119
+(dp120
+tp121
+Rp122
+sg31
+(lp123
+sg34
+g26
+((I2020
+I2
+I12
+I15
+I25
+I28
+I2
+I43
+I0
+tp124
+(dp125
+tp126
+Rp127
+sbsa(dp128
+g14
+I00
+sg15
+(lp129
+I1270
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p130
+(dp131
+g21
+VThank you very much for playing. The following link will return you to Qualtrics where you will be asked to complete a brief survey.\u000a<<nobr>>\u000a<<set $allVars to "&condition=" + $condition + "&conditionChoice=" + $conditionChoice + "&conditionPOV=" + $conditionPOV + "&conditionStyle=" + $conditionStyle + "&choice1=" + $choice1 + "&choice2=" + $choice2 + "&choice3=" + $choice3 + "&choice4=" + $choice4 + "&choice5=" + $choice5 >>\u000a<<set $surveyLink to "https://bostonu.qualtrics.com/jfe/form/SV_3z9my4XhgdhRfi5" + "?gamename=Immersive" + $allVars>>\u000a<</nobr>>\u000a[[Return to Qualtrics|$surveyLink]]
+p132
+sg23
+VReturn
+p133
+sg25
+g26
+((I2020
+I3
+I19
+I0
+I10
+I32
+I3
+I79
+I1
+tp134
+(dp135
+tp136
+Rp137
+sg31
+(lp138
+Vopening
+p139
+asg34
+g26
+((I2020
+I3
+I18
+I23
+I57
+I48
+I2
+I78
+I1
+tp140
+(dp141
+tp142
+Rp143
+sbsa(dp144
+g14
+I00
+sg15
+(lp145
+I10
+aI850
+asg17
+(itiddlywiki
+Tiddler
+p146
+(dp147
+g21
+Vdata:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsIAAA7CARUoSoAAAAGESURBVHhe7dzRTRRRGIbhEW+8tARKsAQtwyqwBNrgiliBJRgrUCuQDpQK4D8wJJvJia4xnv2Y8zzJl9m9m+zL7BKG7AIAAAAAAAAAAAAwzIv1uHeva29qFw/PluV77fLxIafwqXa32ddai8RgH2rbGE/7WRNlsN7VcThRBvtc64U4XEyUs/W4Zzfr8Xfah34L50oZoL3Y7QroXRnbefsa5G2tF6A3UQYRJZAogUQJJEogUQKJEkiUQKIEEiWQKIFECfTso7QTan++bifXO+m9LypKO5FZQxzuRy0iyjF35GbZya+UdvOnd2Iz75+izHALdzrtvbP3kzLjIj7c/+ZXxD0v7jetmT/co2LsUbvq24vce/G3E+M/EyOIGEHECCJGEDGCiBFEjCBiBBEjiBhBxAgiRpDzmhhBrmu9F387MQY55o6mGAP96cZZVIwZ/snhy3rs+VV7V/v28Ixh2hfNRF8ZT16ux727qt3WXtXaNzt8rL1fHwMAAAAAAAAAAABMaVnuAX2UWkzpPJbEAAAAAElFTkSuQmCC
+p148
+sg23
+Varrowb
+p149
+sg25
+g26
+((I2020
+I3
+I18
+I23
+I58
+I35
+I2
+I78
+I1
+tp150
+(dp151
+tp152
+Rp153
+sg31
+(lp154
+S'Twine.image'
+p155
+asg34
+g153
+sbsa(dp156
+g14
+I00
+sg15
+(lp157
+I430
+aI10
+asg17
+(itiddlywiki
+Tiddler
+p158
+(dp159
+g21
+VUnfortunately, your team ordered you to break in silently and complete the mission unnoticed. Your sole task is to retrieve the Chorobi prototype, nothing else. You spent the ride here reminding yourself of that and trying to clear your mind. Now that you've landed, you operate on autopilot, suiting up and grabbing your gear the same way you do for every mission.\u000a\u000aBy the time you exit your ship, the sky is black and starless, although the sand still glows faintly underfoot as you head around the dune and approach the K.A.L. laboratory. It's a stark and ugly building \u2013 <i>not that I expected much else</i>, you think. The concrete square of a building backs into a rocky outcropping, probably to protect it from the planet's vicious sandstorms.\u000a\u000aAs you approach, you scan the laboratory for entry points. Of course, you could enter through the front door, a massive metal contraption sealed shut by a security panel. Your team sent some old K.A.L. password to your decoder device, so you should be able to hack through the front door. \u000a\u000aAlternatively, you could head around the side of the building, where you know there's a large hangar door for vehicles to deliver shipments under the protection of the outcropping. As long as there's no vehicle present, it should be easy to slip in. Or you could climb up to the roof and look for a sneakier way in, like a maintenance entrance that drops into the building.\u000a<ul>\u000a<li>Enter through the [[front door|Choice1A][$choice1 to "1A"]].</li>\u000a<li>Enter through the [[hangar door|Choice1B][$choice1 to "1B"]].</li>\u000a<li>Enter through the [[roof|Choice1C][$choice1 to "1C"]].</li>\u000a</ul>
+p160
+sg23
+VSetup.2
+p161
+sg25
+g26
+((I2020
+I3
+I19
+I0
+I33
+I3
+I3
+I79
+I1
+tp162
+(dp163
+tp164
+Rp165
+sg31
+(lp166
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I7
+I42
+I3
+I79
+I1
+tp167
+(dp168
+tp169
+Rp170
+sbsa(dp171
+g14
+I00
+sg15
+(lp172
+I290
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p173
+(dp174
+g21
+VYou decide to enter through the front door.\u000a\u000aAfter all, your team provided you with a security code. <i>Might as well use it and reward their hard work</i>, you think. After jogging up to the front wall of the laboratory, you unclip your decoder from your belt and attach the little box to the door's security panel. The box whirs to life, its display flickering with a blur of numbers too fast for you to read. All you care about is the progress bar at the bottom, which fades from red to yellow to green. \u000a\u000aA small <i>ding</i> from the decoder is answered by a <i>clunk</i> within the door. The door's locking mechanisms groan and grind against each other as they twist open, and finally the two halves of the door shudder apart to grant you entrance. You wonder if it takes this much effort for the door to open every time. It sounds like it hasn't been used in weeks, so it's possible that the staff use a smaller entrance that your team doesn't know about.\u000a\u000aEither way, you're inside. The sheer metal walls and corrugated floor resemble every other scientific facility you've been in. You don't see any cameras or sensors in the front hall, but you hurry around the corner anyway.\u000a\u000aYou're looking for a room to duck into and plan your next move \u2013 and right on time, you sight an unassuming door, one with an old, manual doorknob. As you suspected, the door is unlocked, so you push it open and peek inside. \u000a\u000a<div id="next">[img[Next page|arrow][Choice1A.2]]</div>
+p175
+sg23
+VChoice1A
+p176
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I22
+I2
+I3
+I79
+I1
+tp177
+(dp178
+tp179
+Rp180
+sg31
+(lp181
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I7
+I48
+I3
+I79
+I1
+tp182
+(dp183
+tp184
+Rp185
+sbsa(dp186
+g14
+I00
+sg15
+(lp187
+I430
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p188
+(dp189
+g21
+VThe room contains some metal shelves, mostly bare, with duct pipes and foam insulation tossed in a corner. This must be a storage room, and not one well-used. Dust particles glimmer in the air, stirred up from the floor when you opened the door.\u000a\u000aYou duck inside and shut the door behind you. So far, so good \u2013 no alarm means that it's unlikely you were caught on a hidden sensor. You take a minute to deactivate your decoder and secure it on your belt again; then you're ready to explore the building. You press your ear to the door to verify that nothing has changed since you stepped in. Sounds clear, so you push it open and head out.\u000a\u000aYou're not two steps into the hall before you hear voices from around the corner \u2013 K.A.L. staff! You start to hurry down the hall, but then you overhear one of them saying, " \u2013 which is an improvement over the last system, but it's still not ideal for the prototypes \u2013 "\u000a\u000aYou freeze in place, conflicted. You could retreat into the storage room and leave the door cracked in order to hear more of the conversation. It sounds like they're discussing the nanobot security system: this could provide you with critical information on how to recover the prototype without setting off alarms.\u000a\u000aBut if you hide in the storage room now, you might end up trapped there for ages, listening to the K.A.L. staff whine about some irrelevant part of their work. There's no guarantee of good intel \u2013 and you wonder if you could stay quiet for that long in the presence of villains you despise. \u000a<ul>\u000a<li>[[Hide in the storage room|Choice2A][$choice2 to "2A"]] and eavesdrop.</li>\u000a<li>[[Sneak down the hall|Choice2B][$choice2 to "2B"]] and move on.</li>\u000a</ul>
+p190
+sg23
+VChoice1A.2
+p191
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I30
+I55
+I3
+I79
+I1
+tp192
+(dp193
+tp194
+Rp195
+sg31
+(lp196
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I7
+I55
+I3
+I79
+I1
+tp197
+(dp198
+tp199
+Rp200
+sbsa(dp201
+g14
+I00
+sg15
+(lp202
+I290
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p203
+(dp204
+g21
+VYou decide to enter through the hangar.\u000a\u000aAfter heading around the side of the building, you easily identify the huge hangar door. It extends halfway up the building, but right now the door is partially closed, only tall enough to admit trucks and other commercial vehicles. One such truck is sitting in the hangar bay with its rear doors open and half of its shipment unpacked. You duck inside the far end of the hangar and wedge yourself behind a work bench to observe the situation.\u000a\u000aAs you expected, you soon witness movement \u2013 a laborer trundles back to the truck, drags out another box, and carries it off to a storage room. You wait for one more cycle of delivery before you feel confident that you have enough time to move unnoticed. \u000a\u000aThe next time the laborer leaves with a box, you follow, creeping around benches and shelves and vehicle parts to get to the far wall of the hangar. You scan the wall and its many doors, all labeled with unhelpful identifiers like A-42 and D-16. <i>Guess we're leaving it to chance</i>, you tell yourself, and yank open the nearest door.\u000a\u000aFortunately, the hall appears empty. You don't test your luck by lingering; you dart down the hall and into the next one, hunting for a hiding spot. Right on time, you sight an unassuming door, one with an old, manual doorknob. As you suspected, the door is unlocked, so you push it open and peek inside.\u000a\u000aLooks like metal shelves, mostly bare, with duct pipes and foam insulation tossed in a corner. This must be a storage room, and not one well-used. Dust particles glimmer in the air, stirred up from the floor when you opened the door.\u000a\u000a<div id="next">[img[Next page|arrow][Choice1B.2]]</div>
+p205
+sg23
+VChoice1B
+p206
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I25
+I12
+I3
+I79
+I1
+tp207
+(dp208
+tp209
+Rp210
+sg31
+(lp211
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I1
+I3
+I79
+I1
+tp212
+(dp213
+tp214
+Rp215
+sbsa(dp216
+g14
+I00
+sg15
+(lp217
+I430
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p218
+(dp219
+g21
+VYou duck inside and shut the door behind you. So far, so good \u2013 dust no alarm means that it's unlikely the laborer noticed you. You press your ear to the door to verify that nothing has changed since you stepped in. Sounds clear, so you push it open and head out.\u000a\u000aYou're not two steps into the hall before you hear voices from around the corner \u2013 K.A.L. staff! You start to hurry down the hall, but then you overhear one of them saying, " \u2013 which is an improvement over the last system, but it's still not ideal for the prototypes \u2013 "\u000a\u000aYou freeze in place, conflicted. You could retreat into the storage room and leave the door cracked in order to hear more of the conversation. It sounds like they're discussing the nanobot security system: this could provide you with critical information on how to recover the prototype without setting off alarms.\u000a\u000aBut if you hide in the storage room now, you might end up trapped there for ages, listening to the K.A.L. staff whine about some irrelevant part of their work. There's no guarantee of good intel \u2013 and you wonder if you could stay quiet for that long in the presence of villains you despise. \u000a<ul>\u000a<li>[[Hide in the storage room|Choice2A][$choice2 to "2A"]] and eavesdrop.</li>\u000a<li>[[Sneak down the hall|Choice2B][$choice2 to "2B"]] and move on.</li>\u000a</ul>
+p220
+sg23
+VChoice1B.2
+p221
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I31
+I7
+I3
+I79
+I1
+tp222
+(dp223
+tp224
+Rp225
+sg31
+(lp226
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I10
+I3
+I79
+I1
+tp227
+(dp228
+tp229
+Rp230
+sbsa(dp231
+g14
+I00
+sg15
+(lp232
+I290
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p233
+(dp234
+g21
+VYou decide to enter through the roof.\u000a\u000aAfter heading around the side of the building, you unhook your grapple-gun from your belt and aim it at the ledge. <i>Click\u2014zing!</i> The hook sings through the air, clatters onto the roof, and catches the edge with a solid clunk. You give the hook a little tug to make sure it's secure and then click your gun again to reel in the slack. Once the wire is taut, you clamber up the building, hoist yourself over the top, and hop onto the roof.\u000a\u000aIt looks clear: no movement on the roof except the billowing columns of steam that spew from the laboratory's exhaust vents. You pick your way around the foggy white pillars, eyes down, hunting for some kind of maintenance hatch \u2013 aha!\u000a\u000aYou notice the shine of a bright steel square amid the concrete. Crouching down, you grip the handle of the hatch and attempt to lift it \u2013\u000a\u000aAnd succeed. You can't believe they left it unlocked. \u000a\u000aYou heave the hatch open and peer inside. Looks like metal shelves, mostly bare, with some duct pipes and foam insulation tossed in a corner. This must be a storage room, and not one well-used. Dust particles glimmer in the air, shaken loose from the hatch when you wrenched it open.\u000a\u000a<div id="next">[img[Next page|arrow][Choice1C.2]]</div>
+p235
+sg23
+VChoice1C
+p236
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I25
+I28
+I3
+I79
+I1
+tp237
+(dp238
+tp239
+Rp240
+sg31
+(lp241
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I15
+I3
+I79
+I1
+tp242
+(dp243
+tp244
+Rp245
+sbsa(dp246
+g14
+I00
+sg15
+(lp247
+I430
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p248
+(dp249
+g21
+VYou sit, swing your feet over the edge of the hatch, and hop onto a conveniently-placed shelf. Maybe the K.A.L. staff use this shelf the same way, in place of a real ladder \u2013 you shake your head to interrupt that thought. Who cares what the staff do? <i>They're all remorseless killers</i>, you remind yourself. <i>Focus on the mission.</i>\u000a\u000aYou leave footprints in the dust as you cross the room and press your ear to the door. If there is anything outside, the door is too thick to hear it, so you're forced to crack it open. Looks clear.\u000a\u000aYou're not two steps into the hall before you hear voices from around the corner \u2013 K.A.L. staff! You start to hurry down the hall, but then you overhear one of them saying, " \u2013 which is an improvement over the last system, but it's still not ideal for the prototypes \u2013 "\u000a\u000aYou freeze in place, conflicted. You could retreat into the storage room and leave the door cracked in order to hear more of the conversation. It sounds like they're discussing the nanobot security system: this could provide you with critical information on how to recover the prototype without setting off alarms.\u000a\u000aBut if you hide in the storage room now, you might end up trapped there for ages, listening to the K.A.L. staff whine about some irrelevant part of their work. There's no guarantee of good intel \u2013 and you wonder if you could stay quiet for that long in the presence of villains you despise.\u000a<ul>\u000a<li>[[Hide in the storage room|Choice2A][$choice2 to "2A"]] and eavesdrop.</li>\u000a<li>[[Sneak down the hall|Choice2B][$choice2 to "2B"]] and move on.</li>\u000a</ul>
+p250
+sg23
+VChoice1C.2
+p251
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I31
+I12
+I3
+I79
+I1
+tp252
+(dp253
+tp254
+Rp255
+sg31
+(lp256
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I21
+I3
+I79
+I1
+tp257
+(dp258
+tp259
+Rp260
+sbsa(dp261
+g14
+I00
+sg15
+(lp262
+I290
+aI570
+asg17
+(itiddlywiki
+Tiddler
+p263
+(dp264
+g21
+VThe chance to get information is worth the risk. \u000a\u000aYou duck into the storage room, leaving the door cracked, and hide yourself in a corner. If someone checks this room, you won't be concealed from sight, but you should have enough time for a surprise attack.\u000a\u000aThankfully, it doesn't sound like that will be necessary. Judging by the staff's footsteps, they haven't turned down this hall. There are about three of them, gossiping about the new security system installed in the inner laboratory.\u000a\u000aOne of them whines, "They couldn't have installed a slower unlock sequence on that door. I swear that even the buttons lag when you try to enter the code."\u000a\u000aMinor complaints aside, the group consensus is that the new system have been an improvement. The voices start to fade out of your hearing, so you creep closer to the door and ease it open to catch some last comments. It seemed like your patience was not rewarded with any valuable information, until \u2013 \u000a\u000a"And they finally fixed the Glacior!" one of them says.\u000a\u000aYou aren't overly familiar with Glacior technology, but you remember it has something to do with freezing nanobots for long-term storage.\u000a\u000aThe staff member continues: "Every time I removed a prototype without the deep freeze, it felt like I was risking my life."\u000a\u000aThe others laugh, but say, "You <i>were</i>."\u000a\u000aFinally some decent information: low temperatures make the nanobots safer to handle. You wait until the staff's footsteps have faded, and then exit the room and proceed down the hall. \u000a\u000a<div id="next">[img[Next page|arrow][Choice2A.2]]</div>
+p265
+sg23
+VChoice2A
+p266
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I25
+I50
+I3
+I79
+I1
+tp267
+(dp268
+tp269
+Rp270
+sg31
+(lp271
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I27
+I3
+I79
+I1
+tp272
+(dp273
+tp274
+Rp275
+sbsa(dp276
+g14
+I00
+sg15
+(lp277
+I430
+aI570
+asg17
+(itiddlywiki
+Tiddler
+p278
+(dp279
+g21
+VYou don't have an exact sense of where to go, so you head in roughly the same direction that the staff came from. You're hoping that they exited the inner lab just before you encountered them. The environment supports your hunch: at the next intersection, the hall to your right has blue directional lights installed into the ceiling. You've seen similar lights in other facilities, where they served as part of a safety system that directed staff to a secure quarantine location in the case of a laboratory accident.\u000a\u000aFocused on the lights, you proceed down the hall and turn the next corner without checking it \u2013 and of all corners, this was the wrong one to take blind. In the middle of the hall stands a hulking, armored Bovem. A local alien species, Bovem tower over humans in both height and weight, and their thick leathery skin, as grey and wrinkled as an elephant's, makes them ideal for guard duty. And much like elephants, Bovem are far from stupid.\u000a\u000aThe Bovem doesn't seem to have noticed you yet. It is stationed in front of a sealed door, its attention fixed on the wall opposite \u2013 or so you assume. Its full-face helmet prevents you from knowing exactly where it's looking.\u000a\u000aYou pause, deliberating on the best course action. Even with their natural armor, Bovem can be stunned and taken down, especially with the advantage of a surprise attack. You wouldn't mind injuring at least K.A.L. employee before you leave here \u2013 but if you misjudge this and the Bovem wins the fight, you'll almost certainly be taken prisoner.\u000a\u000aAnd the guard might be a local forced to work for K.A.L. Maybe you should try to trick it instead, convince it that you're an employee too, a technician with all your gadgets hanging off your belt. Or you could sneak away, hoping that the Bovem doesn't notice the movement, and try to find a less dangerous route to the inner lab.\u000a<ul>\u000a<li>[[Attack|Choice3A][$choice3 to "3A"]] the guard.</li>\u000a<li>[[Trick|Choice3B][$choice3 to "3B"]] the guard.</li>\u000a<li>[[Sneak away|Choice3C][$choice3 to "3C"]] from the guard.</li>\u000a</ul>
+p280
+sg23
+VChoice2A.2
+p281
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I31
+I27
+I3
+I79
+I1
+tp282
+(dp283
+tp284
+Rp285
+sg31
+(lp286
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I37
+I3
+I79
+I1
+tp287
+(dp288
+tp289
+Rp290
+sbsa(dp291
+g14
+I00
+sg15
+(lp292
+I290
+aI710
+asg17
+(itiddlywiki
+Tiddler
+p293
+(dp294
+g21
+VThe small chance that you might get decent information isn't worth the time.\u000a\u000aYou leave the room behind and scamper down the hall, concentrated on getting out of sight as soon as possible. You round the corner and plant your back against the wall. It sounds like you're all clear: the staff has carried on with their chitchat, ignorant of your presence.\u000a\u000aNow one of the scientists is complaining about the lag of the laboratory's new unlock mechanism. <i>Made the right choice on this one</i>, you say to yourself. <i>Locking myself into that storage room would have been a huge waste of time.</i>\u000a\u000aAs you complete that thought and straighten up from the wall, you can't help but hear one more remark from the staff: "And they finally fixed the Glacior!" \u000a\u000aYou aren't overly familiar with Glacior technology, but you remember it has something to do with freezing nanobots for long-term storage. Despite yourself, you stay still and listen.\u000a\u000aThe scientist continues: "Every time I removed a prototype without the deep freeze, it felt like I was risking my life."\u000a\u000aThe others laugh, but say, "You <i>were</i>."\u000a\u000aWell, looks like they had some decent information after all: low temperatures make the nanobots safer to handle. Content with that, you resume your plan of action and proceed down the hall. \u000a\u000a<div id="next">[img[Next page|arrow][Choice2B.2]]</div>
+p295
+sg23
+VChoice2B
+p296
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I28
+I44
+I3
+I79
+I1
+tp297
+(dp298
+tp299
+Rp300
+sg31
+(lp301
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I44
+I3
+I79
+I1
+tp302
+(dp303
+tp304
+Rp305
+sbsa(dp306
+g14
+I00
+sg15
+(lp307
+I430
+aI710
+asg17
+(itiddlywiki
+Tiddler
+p308
+(dp309
+g21
+VYou don't have an exact sense of where to go, so you head in roughly the same direction that the staff came from. You're hoping that they exited the inner lab just before you encountered them. The environment supports your hunch: at the next intersection, the hall to your right has blue directional lights installed into the ceiling. You've seen similar lights in other facilities, where they served as part of a safety system that directed staff to a secure quarantine location in the case of a laboratory accident.\u000a\u000aFocused on the lights, you proceed down the hall and turn the next corner without checking it \u2013 and of all corners, this was the wrong one to take blind. In the middle of the hall stands a hulking, armored Bovem. A local alien species, Bovem tower over humans in both height and weight, and their thick leathery skin, as grey and wrinkled as an elephant's, makes them ideal for guard duty. And much like elephants, Bovem are far from stupid.\u000a\u000aThe Bovem doesn't seem to have noticed you yet. It is stationed in front of a sealed door, its attention fixed on the wall opposite \u2013 or so you assume. Its full-face helmet prevents you from knowing exactly where it's looking.\u000a\u000aYou pause, deliberating on the best course action. Even with their natural armor, Bovem can be stunned and taken down, especially with the advantage of a surprise attack. You wouldn't mind injuring at least K.A.L. employee before you leave here \u2013 but if you misjudge this and the Bovem wins the fight, you'll almost certainly be taken prisoner.\u000a\u000aAnd the guard might be a local forced to work for K.A.L. Maybe you should try to trick it instead, convince it that you're an employee too, a technician with all your gadgets hanging off your belt. Or you could sneak away, hoping that the Bovem doesn't notice the movement, and try to find a less dangerous route to the inner lab.\u000a<ul>\u000a<li>[[Attack|Choice3A][$choice3 to "3A"]] the guard.</li>\u000a<li>[[Trick|Choice3B][$choice3 to "3B"]] the guard.</li>\u000a<li>[[Sneak away|Choice3C][$choice3 to "3C"]] from the guard.</li>\u000a</ul>
+p310
+sg23
+VChoice2B.2
+p311
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I31
+I31
+I3
+I79
+I1
+tp312
+(dp313
+tp314
+Rp315
+sg31
+(lp316
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I51
+I3
+I79
+I1
+tp317
+(dp318
+tp319
+Rp320
+sbsa(dp321
+g14
+I00
+sg15
+(lp322
+I710
+aI10
+asg17
+(itiddlywiki
+Tiddler
+p323
+(dp324
+g21
+VYou decide to take advantage of the element of surprise and attack the guard.\u000a\u000aYou unsnap the stun gun from your belt and fire at full blast. A bolt of electricity surges down the hall, and for a moment, everything is painted with a blinding white light. Then the bolt hits the guard squarely in its armor. Your bullets and knives wouldn't have been able to cut through thick Bovem skin, but the electric bolt should affect the metal helmet and armor.\u000a\u000aKey word: <i>should</i>. Instead of scorching the armor and disabling its system, the electricity hits the guard, knocks it back one step, and does absolutely nothing else.\u000a\u000aThis was a mistake.\u000a\u000aThe Bovem howls, "Intruder!" into its helmet radio. Instantly the blue ceiling lights flash to red, and unseen speakers shriek a high-pitched alarm. You sprint past the guard, who swipes at you \u2013 too slow \u2013 and shouts your escape route into the radio. \u000a\u000aYou skid around the corner and down the next hall. The overhead alarm is screeching so loudly that you almost miss the <i>thump-thump</i> of guards running in from your left. You scramble right just in time, around another corner, and reach a dead end.\u000a\u000aBut it's the <i>correct</i> dead end. A massive sheer steel wall, studded with thick-glassed viewing windows, stands between you and the inner laboratory. Beneath each window is a small grate to vent fumes, and centered in the middle of the wall is a hefty door and keypad.\u000a\u000aWith the guards storming down the hall behind you, you don't have much time to deliberate. You could try to hack the door in time, blast through one of the windows with explosives, or crawl in through a vent.\u000a<ul>\u000a<li>[[Hack the door.|Choice4A][$choice4 to "4A"]]</li>\u000a<li>[[Blast through a window.|Choice4B][$choice4 to "4B"]]</li>\u000a<li>[[Crawl through a vent.|Choice4C][$choice4 to "4C"]]</li>\u000a</ul>
+p325
+sg23
+VChoice3A
+p326
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I31
+I45
+I3
+I79
+I1
+tp327
+(dp328
+tp329
+Rp330
+sg31
+(lp331
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I8
+I59
+I3
+I79
+I1
+tp332
+(dp333
+tp334
+Rp335
+sbsa(dp336
+g14
+I00
+sg15
+(lp337
+I710
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p338
+(dp339
+g21
+VYou decide that the simplest approach is to act like you belong here.\u000a\u000aRelaxing your shoulders, you stroll down the hall without paying the Bovem any mind. When it startles and orders you to halt, you look at the Bovem with mild surprise.\u000a\u000a"For what? Isn't this Sector C?" you say, remembering a sign painted on the wall a couple halls back. "I was told to go over to C and check on the filtration system."\u000a\u000aSlowly the guard looks you over, its attention lingering at your belt full of gadgets. You open your mouth to convince the guard that this is a <i>welding</i> gun, not anything else, but it speaks first.\u000a\u000a"Told by who?"\u000a\u000a"My boss."\u000a\u000a"By," the guard growls, "who?"\u000a\u000aThis was a mistake.\u000a\u000aAt your hesitation, the Bovem yells, "Intruder!" into its helmet radio. Instantly the blue ceiling lights flash to red, and unseen speakers shriek a high-pitched alarm. You sprint past the guard, who swipes at you \u2013 too slow \u2013 and shouts your escape route into the radio. \u000a\u000aYou skid around the corner and down the next hall. The overhead alarm is screeching so loudly that you almost miss the <i>thump-thump</i> of guards running in from your left. You scramble right just in time, around another corner, and reach a dead end.\u000a\u000aBut it's the <i>correct</i> dead end. A massive sheer steel wall, studded with thick-glassed viewing windows, stands between you and the inner laboratory. Beneath each window is a small grate to vent fumes, and centered in the middle of the wall is a hefty door and keypad.\u000a\u000aWith the guards storming down the hall behind you, you don't have much time to deliberate. You could try to hack the door in time, blast through one of the windows with explosives, or crawl in through a vent.\u000a<ul>\u000a<li>[[Hack the door.|Choice4A][$choice4 to "4A"]]</li>\u000a<li>[[Blast through a window.|Choice4B][$choice4 to "4B"]]</li>\u000a<li>[[Crawl through a vent.|Choice4C][$choice4 to "4C"]]</li>\u000a</ul>
+p340
+sg23
+VChoice3B
+p341
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I31
+I51
+I3
+I79
+I1
+tp342
+(dp343
+tp344
+Rp345
+sg31
+(lp346
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I4
+I3
+I79
+I1
+tp347
+(dp348
+tp349
+Rp350
+sbsa(dp351
+g14
+I00
+sg15
+(lp352
+I710
+aI290
+asg17
+(itiddlywiki
+Tiddler
+p353
+(dp354
+g21
+VYou decide that the best route is the safest one.\u000a\u000aYou ease back a step, and then another. You're nearly around the corner when your grapple hook, hanging loose from your belt, clinks against the wall. The Bovem's head snaps your way.\u000a\u000aNo choice now: you unsnap the stun gun from your belt and fire at full blast. A bolt of electricity surges down the hall, and for a moment, everything is painted with a blinding white light. Then the bolt hits the guard squarely in its armor. Your bullets and knives wouldn't have been able to cut through thick Bovem skin, but the electric bolt should affect the metal helmet and armor.\u000a\u000aKey word: <i>should</i>. Instead of scorching the armor and disabling its system, the electricity hits the guard, knocks it back one step, and does absolutely nothing else.\u000a\u000aThe guard howls, "Intruder!" into its helmet radio. Instantly the blue ceiling lights flash to red, and unseen speakers shriek a high-pitched alarm. You sprint past the guard, who swipes at you \u2013 too slow \u2013 and shouts your escape route into the radio. \u000a\u000aYou skid around the corner and down the next hall. The overhead alarm is screeching so loudly that you almost miss the <i>thump-thump</i> of guards running in from your left. You scramble right just in time, around another corner, and reach a dead end.\u000a\u000aBut it's the <i>correct</i> dead end. A massive sheer steel wall, studded with thick-glassed viewing windows, stands between you and the inner laboratory. Beneath each window is a small grate to vent fumes, and centered in the middle of the wall is a hefty door and keypad.\u000a\u000aWith the guards storming down the hall behind you, you don't have much time to deliberate. You could try to hack the door in time, blast through one of the windows with explosives, or crawl in through a vent.\u000a<ul>\u000a<li>[[Hack the door.|Choice4A][$choice4 to "4A"]]</li>\u000a<li>[[Blast through a window.|Choice4B][$choice4 to "4B"]]</li>\u000a<li>[[Crawl through a vent.|Choice4C][$choice4 to "4C"]]</li>\u000a</ul>
+p355
+sg23
+VChoice3C
+p356
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I31
+I54
+I3
+I79
+I1
+tp357
+(dp358
+tp359
+Rp360
+sg31
+(lp361
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I11
+I3
+I79
+I1
+tp362
+(dp363
+tp364
+Rp365
+sbsa(dp366
+g14
+I00
+sg15
+(lp367
+I710
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p368
+(dp369
+g21
+VNo time for mistakes.\u000a\u000aYou rush to the door and slam your decoder onto the security panel. As soon as the decoder's screen lights up, you turn away from it. You have faith in the decoder's ability to do the hack, but you need to buy it some time.\u000a\u000aYou whip out your stun gun and take wild shots down the hall, trying to bounce the electric shots off the wall and around the corner at the horde of approaching guards. Between sizzles of electric shots, you hear a soft <i>ding</i> from the decoder \u2013 door unlocked.\u000a\u000aYou snatch the decoder off the wall and back through the opening door. Once inside, the first thing you do is hit the button to close and relock the door. Then you reattach your gadgets to your belt and quickly take stock of the lab. Work stations extend along both sides of the lab, shiny, antiseptic counters built on top of vacuum-sealed drawers. Various machines and tools are dotted across the stations \u2013 microscopes, spectrometers, and dozens of others whose names you don't know. \u000a\u000aTwo massive machines dominate the center of the room. Easily twice your height, the machines are hooked with numerous mechanical arms that rotate around a pillar of empty slots, hungry for biological samples. You don't spend much time examining the machines; you're here for the prototype.\u000a\u000a<div id="next">[img[Next page|arrow][Choice4A.2]]</div>
+p370
+sg23
+VChoice4A
+p371
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I28
+I56
+I3
+I79
+I1
+tp372
+(dp373
+tp374
+Rp375
+sg31
+(lp376
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I17
+I3
+I79
+I1
+tp377
+(dp378
+tp379
+Rp380
+sbsa(dp381
+g14
+I00
+sg15
+(lp382
+I850
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p383
+(dp384
+g21
+VYou head to the back of the lab. The back wall resembles an aisle of a server room, with rows and rows of narrow black boxes monitored by blinking blue lights. Searching every storage unit for the Chorobi prototype would be impossible, but you realize your task is much simpler.\u000a\u000aA portion of the wall is recessed: it hosts three tall pods filled with a gelatinous yellow liquid. Inside each, suspended safely in the gel, floats a vial no larger than your hand. You have no proof that one of these holds the prototype; at the same time, you have absolutely no doubts.\u000a\u000aYou rush to the computer console set below the pods. At your touch, the screen comes to life and immediately confirms your hunch: Pod #1, Chorobi. The screen also provides an overwhelming amount of details \u2013 the pod's current temperature, acidity, viscosity \u2013 none of which you have time to read. Tapping on the icon for Pod #1 supplies you with a dizzyingly long list of command options.\u000a\u000aYou have to decide now whether to remove the prototype through the proper computer commands or risk smashing the pod to grab the prototype right away.\u000a<ul>\u000a<li>[[Remove the prototype through the computer.|Choice5A][$choice5 to "5A"]]</li>\u000a<li>[[Smash the pod to get the prototype.|Choice5B][$choice5 to "5B"]]</li>\u000a</ul>
+p385
+sg23
+VChoice4A.2
+p386
+sg25
+g26
+((I2020
+I3
+I19
+I13
+I43
+I57
+I3
+I79
+I1
+tp387
+(dp388
+tp389
+Rp390
+sg31
+(lp391
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I23
+I3
+I79
+I1
+tp392
+(dp393
+tp394
+Rp395
+sbsa(dp396
+g14
+I00
+sg15
+(lp397
+I710
+aI570
+asg17
+(itiddlywiki
+Tiddler
+p398
+(dp399
+g21
+VNo time for stealth.\u000a\u000aYou slap two explosive charges on a window, crouch, cover your head, and detonate the bombs. The first explosion crunches into the glass, leaving a crater like a giant took a bite out of it. The window doesn't break until the second charge explodes; then it shatters open with a terrific bone-cracking noise and a spray of glass shards.\u000a\u000aYou launch yourself through the broken window and roll to your feet on the other side. Shaking glass off your shoulders, you quickly take stock of the lab. Work stations extend along both sides of the lab, shiny, antiseptic counters built on top of vacuum-sealed drawers. Various machines and tools are dotted across the stations \u2013 microscopes, spectrometers, and dozens of others whose names you don't know. \u000a\u000aTwo massive machines dominate the center of the room. Easily twice your height, the machines are hooked with numerous mechanical arms that rotate around a pillar of empty slots, hungry for biological samples. You don't spend much time examining the machines; you're here for the prototype.\u000a\u000a<div id="next">[img[Next page|arrow][Choice4B.2]]</div>
+p400
+sg23
+VChoice4B
+p401
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I29
+I17
+I3
+I79
+I1
+tp402
+(dp403
+tp404
+Rp405
+sg31
+(lp406
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I30
+I3
+I79
+I1
+tp407
+(dp408
+tp409
+Rp410
+sbsa(dp411
+g14
+I00
+sg15
+(lp412
+I850
+aI570
+asg17
+(itiddlywiki
+Tiddler
+p413
+(dp414
+g21
+VStriding over glass shards, you head to the back of the lab. The back wall resembles an aisle of a server room, with rows and rows of narrow black boxes monitored by blinking blue lights. Searching every storage unit for the Chorobi prototype would be impossible, but you realize your task is much simpler.\u000a\u000aA portion of the wall is recessed: it hosts three tall pods filled with a gelatinous yellow liquid. Inside each, suspended safely in the gel, floats a vial no larger than your hand. You have no proof that one of these holds the prototype; at the same time, you have absolutely no doubts.\u000a\u000aYou rush to the computer console set below the pods. At your touch, the screen comes to life and immediately confirms your hunch: Pod #1, Chorobi. The screen also provides an overwhelming amount of details \u2013 the pod's current temperature, acidity, viscosity \u2013 none of which you have time to read. Tapping on the icon for Pod #1 supplies you with a dizzyingly long list of command options.\u000a\u000aYou have to decide now whether to remove the prototype through the proper computer commands or risk smashing the pod to grab the prototype right away.\u000a<ul>\u000a<li>[[Remove the prototype through the computer.|Choice5A][$choice5 to "5A"]]</li>\u000a<li>[[Smash the pod to get the prototype.|Choice5B][$choice5 to "5B"]]</li>\u000a</ul>
+p415
+sg23
+VChoice4B.2
+p416
+sg25
+g26
+((I2020
+I3
+I19
+I13
+I44
+I27
+I3
+I79
+I1
+tp417
+(dp418
+tp419
+Rp420
+sg31
+(lp421
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I38
+I3
+I79
+I1
+tp422
+(dp423
+tp424
+Rp425
+sbsa(dp426
+g14
+I00
+sg15
+(lp427
+I710
+aI710
+asg17
+(itiddlywiki
+Tiddler
+p428
+(dp429
+g21
+VNo time for pride.\u000a\u000aYou kick in the grate covering the vent and drop onto your stomach. You manage to worm your way into the vent; it's barely wide enough for your shoulders, and the gadgets around your waist only makes the situation worse. They scrape against the soft metal of the vent shaft and, based on the noises, leave deep gouges as they go. No worse than the gouges in your shoulders \u2013 the sharp edge where one section of vent connects to the next cuts into your shoulders every time you squeeze past one.\u000a\u000aBut you reach the other side, punch through another grate, and claw your way out. You pull yourself to your feet and quickly take stock of the lab. Work stations extend along both sides of the lab, shiny, antiseptic counters built on top of vacuum-sealed drawers. Various machines and tools are dotted across the stations \u2013 microscopes, spectrometers, and dozens of others whose names you don't know. \u000a\u000aTwo massive machines dominate the center of the room. Easily twice your height, the machines are hooked with numerous mechanical arms that rotate around a pillar of empty slots, hungry for biological samples. You don't spend much time examining the machines; you're here for the prototype.\u000a\u000a<div id="next">[img[Next page|arrow][Choice4C.2]]</div>
+p430
+sg23
+VChoice4C
+p431
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I29
+I25
+I3
+I79
+I1
+tp432
+(dp433
+tp434
+Rp435
+sg31
+(lp436
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I44
+I3
+I79
+I1
+tp437
+(dp438
+tp439
+Rp440
+sbsa(dp441
+g14
+I00
+sg15
+(lp442
+I850
+aI710
+asg17
+(itiddlywiki
+Tiddler
+p443
+(dp444
+g21
+VYou head to the back of the lab. The back wall resembles an aisle of a server room, with rows and rows of narrow black boxes monitored by blinking blue lights. Searching every storage unit for the Chorobi prototype would be impossible, but you realize your task is much simpler.\u000a\u000aA portion of the wall is recessed: it hosts three tall pods filled with a gelatinous yellow liquid. Inside each, suspended safely in the gel, floats a vial no larger than your hand. You have no proof that one of these holds the prototype; at the same time, you have absolutely no doubts.\u000a\u000aYou rush to the computer console set below the pods. At your touch, the screen comes to life and immediately confirms your hunch: Pod #1, Chorobi. The screen also provides an overwhelming amount of details \u2013 the pod's current temperature, acidity, viscosity \u2013 none of which you have time to read. Tapping on the icon for Pod #1 supplies you with a dizzyingly long list of command options.\u000a\u000aYou have to decide now whether to remove the prototype through the proper computer commands or risk smashing the pod to grab the prototype right away.\u000a<ul>\u000a<li>[[Remove the prototype through the computer.|Choice5A][$choice5 to "5A"]]</li>\u000a<li>[[Smash the pod to get the prototype.|Choice5B][$choice5 to "5B"]]</li>\u000a</ul>
+p445
+sg23
+VChoice4C.2
+p446
+sg25
+g26
+((I2020
+I3
+I19
+I13
+I44
+I32
+I3
+I79
+I1
+tp447
+(dp448
+tp449
+Rp450
+sg31
+(lp451
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I50
+I3
+I79
+I1
+tp452
+(dp453
+tp454
+Rp455
+sbsa(dp456
+g14
+I00
+sg15
+(lp457
+I1130
+aI10
+asg17
+(itiddlywiki
+Tiddler
+p458
+(dp459
+g21
+VEven with guards closing in on you, it's critical to extract the nanobots properly.\u000a\u000aAs you skim the list of commands, searching for an "unlock" or "release," a different command catches your eye: <i>Initiate Glacior sequence</i>. Wasn't that the deep-freeze process that the scientist mentioned in the hallway?\u000a\u000aYou hit the command on impulse. The yellow liquid inside the pod crystallizes, and then desaturates, its color fading to a dim ivory. With a ding, the computer announces that the vial is now ready for release \u2013 just in time. The guards have unlocked the lab door. You don't need to look back to know they're streaming into the room, weapons raised.\u000a\u000aYou slam the release button at the base of the Chorobi pod. The glass shield hisses and sinks into the base to reveal a pillar of frozen gel. You pluck the vial out of it, just as a laser shot pings off the wall beside you.\u000a\u000a"Don't fire at the pods!" a guard orders. That explains why you haven't been incapacitated already.\u000a\u000aStashing the vial in your belt pouch, you turn on the guards. There are a good two dozen of them, but their caution grants you a considerable advantage. You don't care about preserving anything in this lab.\u000a\u000a<div id="next">[img[Next page|arrow][Choice5A.2]]</div>
+p460
+sg23
+VChoice5A
+p461
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I29
+I32
+I3
+I79
+I1
+tp462
+(dp463
+tp464
+Rp465
+sg31
+(lp466
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I9
+I58
+I3
+I79
+I1
+tp467
+(dp468
+tp469
+Rp470
+sbsa(dp471
+g14
+I00
+sg15
+(lp472
+I1270
+aI10
+asg17
+(itiddlywiki
+Tiddler
+p473
+(dp474
+g21
+VIgnoring the guard shouting at you to halt, you unclip your stun gun again. This time, you thumb the setting to machines, not humanoids, and you fire above the guard's heads at the many-armed monstrosities in the middle of the room. \u000a\u000aElectricity overloads the huge machines, shocking them into erratic motion, their arms wheeling and jerking, slamming into guards, empty sample-slots whirring and shrieking. During the confusion, you fire a few more shots \u2013 at the lights above, at the rows of prototypes behind you, at the smaller machines on the work stations. \u000a\u000aBlinding bolts of lightning streak around the laboratory, and the whole room convulses as it comes to life. Lights and display screens shudder and spark; drawers rocket open and eject their contents onto the lab floor; the guards scramble around the room, dodging mechanical arms as they try to damage-control.\u000a\u000aYou dart through the chaos. The guards who do manage to grab you get their own electric shock, straight to the ribs. After shaking them loose, you escape the lab and slide down the hall toward freedom.\u000a\u000a<div id="next">[img[Next page|arrow][Ending]]</div>
+p475
+sg23
+VChoice5A.2
+p476
+sg25
+g26
+((I2020
+I3
+I19
+I13
+I44
+I43
+I3
+I79
+I1
+tp477
+(dp478
+tp479
+Rp480
+sg31
+(lp481
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I10
+I4
+I3
+I79
+I1
+tp482
+(dp483
+tp484
+Rp485
+sbsa(dp486
+g14
+I00
+sg15
+(lp487
+I1130
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p488
+(dp489
+g21
+VWith the guards closing in on you, there's no time to extract the nanobots properly.\u000a\u000aYou abandon the computer console and ready your stun gun. You fire one shot at the pod \u2013 thankfully, you fired it from an angle, because the bolt reflects off the glass and strikes a random counter rather than hitting you full in the chest. Forget the gun; you pull out your grappling hook.\u000a\u000aSetting one knee on the console to get close, you rear back with the grappling hook and give the pod a vicious swing. The hook pierces the pod like an ice pick; instantly the glass splinters, shards sent flying into the other pods. And just in time \u2013 the guards have unlocked the lab door. You don't need to look back to know they're streaming into the room now, weapons raised.\u000a\u000aYellow gel slops out of the ruined pod, and the vial with it. You pluck it out just as a laser shot pings off the wall beside you.\u000a\u000a"Don't fire at the pods!" a guard orders. That explains why you haven't been incapacitated already.\u000a\u000aStashing the vial in your belt pouch, you turn on the guards. There are a good two dozen of them, but their caution grants you a considerable advantage. You don't care about preserving anything in this lab.\u000a\u000a<div id="next">[img[Next page|arrow][Choice5B.2]]</div>
+p490
+sg23
+VChoice5B
+p491
+sg25
+g26
+((I2020
+I3
+I19
+I1
+I29
+I39
+I3
+I79
+I1
+tp492
+(dp493
+tp494
+Rp495
+sg31
+(lp496
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I10
+I10
+I3
+I79
+I1
+tp497
+(dp498
+tp499
+Rp500
+sbsa(dp501
+g14
+I00
+sg15
+(lp502
+I1270
+aI150
+asg17
+(itiddlywiki
+Tiddler
+p503
+(dp504
+g21
+VIgnoring the guard shouting at you to halt, you ready your stun gun again. This time, you thumb the setting to machines, not humanoids, and you fire above the guard's heads at the many-armed monstrosities in the middle of the room. \u000a\u000aElectricity overloads the huge machines, shocking them into erratic motion, their arms wheeling and jerking, slamming into guards, empty sample-slots whirring and shrieking. During the confusion, you fire a few more shots \u2013 at the lights above, at the rows of prototypes behind you, at the smaller machines on the work stations. \u000a\u000aBlinding bolts of lightning streak around the laboratory, and the whole room convulses as it comes to life. Lights and display screens shudder and spark; drawers rocket open and eject their contents onto the lab floor; the guards scramble around the room, dodging mechanical arms as they try to damage-control.\u000a\u000aYou dart through the chaos. The guards who do manage to grab you get their own electric shock, straight to the ribs. After shaking them loose, you escape the lab and slide down the hall toward freedom.\u000a\u000a<div id="next">[img[Next page|arrow][Ending]]</div>
+p505
+sg23
+VChoice5B.2
+p506
+sg25
+g26
+((I2020
+I3
+I19
+I13
+I44
+I47
+I3
+I79
+I1
+tp507
+(dp508
+tp509
+Rp510
+sg31
+(lp511
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I10
+I20
+I3
+I79
+I1
+tp512
+(dp513
+tp514
+Rp515
+sbsa(dp516
+g14
+I00
+sg15
+(lp517
+I1130
+aI430
+asg17
+(itiddlywiki
+Tiddler
+p518
+(dp519
+g21
+VYou make a mad dash through the rest of the laboratory, dodging staff and guards alike. Outside, the desert sand sucks at your feet and scatters dust into your face; it feels like the planet itself is working for K.A.L., doing its best to prevent your escape.\u000a\u000aYou fight through the desert and clamber onto your ship, relieved to breathe clean air in the quiet sanctuary of your own quarters. But you can't rest long. Shaking sand out of your hair, you head to the cockpit and drop into the pilot seat.\u000a\u000aDimly through the walls of the ship, you can hear little <i>pings</i> and <i>sizzles</i>. K.A.L. guards must have caught up with you. You ignore their harmless shots and activate the take-off sequence. \u000a\u000aRelaxing in your chair, you pat the belt pouch at your side to feel the reassuring weight of the Chorobi prototype. The mission succeeded, even with the activated alarm. You weren't injured by the guards, and K.A.L. doesn't have any idea who you are, so you have half a mind not to tell your team about the alarm at all.\u000a\u000aEither way, that's a future concern. For now, you take a well-deserved rest, close your eyes, and rise into the planet's atmosphere.\u000a\u000a<div id="next">[img[Next page|arrow][Return]]</div>
+p520
+sg23
+VEnding
+p521
+sg25
+g26
+((I2020
+I3
+I19
+I13
+I44
+I54
+I3
+I79
+I1
+tp522
+(dp523
+tp524
+Rp525
+sg31
+(lp526
+sg34
+g26
+((I2020
+I3
+I19
+I0
+I10
+I35
+I3
+I79
+I1
+tp527
+(dp528
+tp529
+Rp530
+sbsasS'scale'
+p531
+I1
+sS'snapping'
+p532
+I01
+ss.
