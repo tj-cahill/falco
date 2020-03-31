@@ -1,2 +1,2 @@
 # Project Falco
-Stimulus files for FALCO research project (name to be determined later)
+Project files for FALCO research on interactive narrative
